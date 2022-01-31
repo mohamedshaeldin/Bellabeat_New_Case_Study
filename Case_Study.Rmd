@@ -2,7 +2,7 @@
 title: "Bellabeat Case Study"
 author: "mohamed abas"
 date: "24/12/2021"
-output: html_document
+output: "html_document"
 ---
 
 ```{r setup, include=FALSE}
