@@ -1,10 +1,10 @@
-<!DOCTYPE Rmd>
+<!DOCTYPE rmd>
 <!--
 ---
 title: "Bellabeat Case Study"
 author: "mohamed abas"
 date: "24/12/2021"
-output: "html_document"
+output: "rmd_document"
 ---
 
 ```{r setup, include=FALSE}
