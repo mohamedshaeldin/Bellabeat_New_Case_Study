@@ -1,3 +1,5 @@
+<!DOCTYPE Rmd>
+<!--
 ---
 title: "Bellabeat Case Study"
 author: "mohamed abas"
